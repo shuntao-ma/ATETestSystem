@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATETestSystem", "ATETestSystem\ATETestSystem.csproj", "{24EC1E98-D4A1-483F-BBE7-0CC3D11143C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductTestMethod", "ProductTestMethod\ProductTestMethod.csproj", "{82DF0E9B-5E0B-4107-B045-4ECEC9EDAFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splash.IO.PORTS", "Splash.IO.PORTS\Splash.IO.PORTS.csproj", "{2BF534F6-EEE2-4451-BD92-E1E041645A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HID", "HID\HID.csproj", "{C1C94D61-384E-4728-999E-799660EDDFB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24EC1E98-D4A1-483F-BBE7-0CC3D11143C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EC1E98-D4A1-483F-BBE7-0CC3D11143C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EC1E98-D4A1-483F-BBE7-0CC3D11143C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EC1E98-D4A1-483F-BBE7-0CC3D11143C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DF0E9B-5E0B-4107-B045-4ECEC9EDAFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DF0E9B-5E0B-4107-B045-4ECEC9EDAFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DF0E9B-5E0B-4107-B045-4ECEC9EDAFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DF0E9B-5E0B-4107-B045-4ECEC9EDAFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF534F6-EEE2-4451-BD92-E1E041645A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF534F6-EEE2-4451-BD92-E1E041645A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF534F6-EEE2-4451-BD92-E1E041645A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF534F6-EEE2-4451-BD92-E1E041645A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C94D61-384E-4728-999E-799660EDDFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C94D61-384E-4728-999E-799660EDDFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C94D61-384E-4728-999E-799660EDDFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C94D61-384E-4728-999E-799660EDDFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
